@@ -6,7 +6,7 @@ $(".theTarget").skippr({
   childrenElementType:"div",
   arrows: true,
   autoPlay:true,
-  autoPlayDuration:3000,
+  autoPlayDuration:2000,
   keyboardOnAlways:true,
   hidePrevious:false
 });
